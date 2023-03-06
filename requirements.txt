@@ -1,0 +1,12 @@
+# Libraries required
+conda==22.9.0
+joblib==1.2.0
+matplotlib==3.6.1
+pandas==1.5.0
+scikit-learn==1.1.2
+scipy==1.9.1
+statsmodels==0.13.2
+streamlit==1.15.1
+tokenizers==0.13.2
+transformers==4.24.0
+virtualenv==20.17.0
